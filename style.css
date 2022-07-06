@@ -1,0 +1,49 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.linked-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 400;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.top-part {
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.text {
+    color: black;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#color {
+    color: black;
+    font-weight: 700;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+}
+
+.text-2 {
+    text-align: center;
+    font-weight: 700;
+}
