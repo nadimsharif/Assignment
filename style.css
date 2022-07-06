@@ -27,14 +27,14 @@ html {
 }
 
 .text {
-    color: black;
+    color: tomato;
     font-size: 30px;
     font-weight: 700;
     text-align: center;
 }
 
 #color {
-    color: black;
+    color: white;
     font-weight: 700;
     text-align: center;
 }
@@ -46,4 +46,72 @@ html {
 .text-2 {
     text-align: center;
     font-weight: 700;
+    font-size: 20px;
+}
+
+.money-button {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 100px;
+}
+
+#first-button {
+    font-size: 30px;
+    font-weight: 700;
+    color: orangered;
+    border-radius: 5px;
+    border-color: orangered;
+    box-shadow: orangered;
+    padding: 30px 30px;
+
+}
+
+#second-button {
+    font-size: 30px;
+    font-weight: 700;
+    color: gray;
+    border-color: white;
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+
+#third-button {
+    font-size: 30px;
+    font-weight: 700;
+    color: gray;
+    border-color: white;
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+
+#fourth-button {
+    font-size: 30px;
+    font-weight: 700;
+    color: gray;
+    border-color: white;
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+
+#fifth-button {
+    font-size: 30px;
+    font-weight: 700;
+    color: gray;
+    border-color: white;
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+
+#input-field {
+    margin-top: 100px;
+    width: 100%;
+}
+
+#amount {
+    text-align: center;
+    color: gray;
+    font-weight: 100;
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
