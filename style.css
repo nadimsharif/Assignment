@@ -5,7 +5,7 @@ body {
 .linked-button {
     text-decoration: none;
     padding: 10px 40px;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(red, tomato);
     font-weight: 400;
     color: white;
     border-radius: 5px;
@@ -62,6 +62,7 @@ html {
     border-radius: 5px;
     border-color: orangered;
     box-shadow: orangered;
+    background-color: rgba(255, 0, 0, 0.089);
     padding: 30px 30px;
 
 }
@@ -71,6 +72,7 @@ html {
     font-weight: 700;
     color: gray;
     border-color: white;
+    background-color: white;
     border-radius: 5px;
     padding: 30px 30px;
 }
@@ -80,6 +82,7 @@ html {
     font-weight: 700;
     color: gray;
     border-color: white;
+    background-color: white;
     border-radius: 5px;
     padding: 30px 30px;
 }
@@ -89,6 +92,7 @@ html {
     font-weight: 700;
     color: gray;
     border-color: white;
+    background-color: white;
     border-radius: 5px;
     padding: 30px 30px;
 }
@@ -98,6 +102,7 @@ html {
     font-weight: 700;
     color: gray;
     border-color: white;
+    background-color: white;
     border-radius: 5px;
     padding: 30px 30px;
 }
@@ -114,4 +119,40 @@ html {
     width: 100%;
     margin-top: 5%;
     margin-bottom: 5%;
+}
+
+.middle-part {
+    text-align: center;
+    font-weight: 700;
+    margin-top: 5%;
+}
+
+.display-flex {
+    display: flex;
+    margin-inline: 40%;
+}
+
+.middle-part1 {
+    background-color: orangered;
+}
+
+.middle-part2 {
+    background-color: aqua;
+}
+
+.middle-part3 {
+    background-color: yellow;
+}
+
+.end-part {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 20%;
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+}
+
+#span {
+    color: orangered;
+    font-style: oblique;
 }
